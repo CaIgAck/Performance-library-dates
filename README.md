@@ -27,3 +27,6 @@ https://github.com/you-dont-need/You-Dont-Need-Momentjs/blob/master/README.md
 
 ### Statistics download
 https://npmtrends.com/date-fns-vs-dayjs-vs-luxon-vs-moment
+
+### Tatrin frontend 
+https://www.youtube.com/live/gDP3WcDVImo
